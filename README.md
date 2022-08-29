@@ -1,9 +1,9 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/isadorasaraiva/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
   </a>
-  <a href="isadorasaraiva95@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.hackerrank.com/isadorasaraiva95" target="_blank">
+    <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="hackerrank-logo"  />
   </a>
 </div>
 
@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">🌎 Sou de Salvador - Bahia, Brasil;<br><br>📖 Estudo na Trybe para me tornar Desenvolvedora de Software Full Stack;<br><br>📚 Estou sempre em busca de novos conhecimentos para melhorar como pessoa e profissional;<br><br>🌱 Estou estudando Arquitetura Rest e Restful;<br><br>💼 Em busca de novas oportunidades profissionais;<br><br>🎲 Meus hobbies são ler, jogar e cozinhar;<br><br>💬  Sinta-se a vontade para entrar em contato.</p>
+<p align="left">🌎 Sou de Salvador - Bahia, Brasil;<br><br>📖 Estudo na Trybe para me tornar Desenvolvedora de Software Full Stack;<br><br>📚 Estou sempre em busca de novos conhecimentos para melhorar como pessoa e profissional;<br><br>🌱 Estou estudando Arquitetura Rest e Restful;<br><br>💼 Em busca de novas oportunidades profissionais;<br><br>🎲 Meus hobbies são ler, jogar e cozinhar;<br><br>💬  Sinta-se a vontade para entrar em contato.<br><br>📝 Meu e-mail é isadorasaraiva95@gmail.com</p>
 
 ###
 
@@ -54,9 +54,5 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=saraivais" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=saraivais" height="150" alt="languages graph"  />
-</div>
 
 ###
