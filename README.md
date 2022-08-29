@@ -24,6 +24,9 @@
   <a href="https://www.hackerrank.com/isadorasaraiva95" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank-logo"  />
   </a>
+  <a href="https://saraivais.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/%20-PORTFOLIO-%239968D9?style=for-the-badge" alt="portfolio-logo"/>
+  </a>
 </div>
   
   ###
