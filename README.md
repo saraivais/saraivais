@@ -35,7 +35,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux-logo"/>
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="bash-logo"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git-logo"/>
@@ -57,10 +57,13 @@
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="mocha-logo"/>
   <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="chai-logo"/>
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="sequelize-logo"/>
-
 </div>
 
-<br clear="both">
+#
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saraivais&show_icons=true&count_private=true&theme=github_dark)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraivais&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-###
+#
+
+![](https://komarev.com/ghpvc/?username=saraivais&style=for-the-badge&color=5DC0C7)
