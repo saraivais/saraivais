@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou Isadora. 👋</h1>
+<h1 align="center">Oi, eu sou Isadora 👋</h1>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">🌎 Sou de Salvador - Bahia, Brasil;<br><br>📖 Estudo na Trybe para me tornar Desenvolvedora de Software Full Stack;<br><br>📚 Estou estudando Deployment e TypeScript;<br><br>🎲 Meus hobbies são cozinhar, ler e jogar;<br><br>💼 Em busca de novas oportunidades profissionais;<br><br>💬  Sinta-se a vontade para entrar em contato.<br><br>📝 Meu e-mail é <b>isadorasaraiva95@gmail.com</b></p>
+<p align="left">🌎 Sou de Salvador - Bahia, Brasil;<br><br>📖 Estudo na Trybe para me tornar Desenvolvedora de Software Full Stack;<br><br>📚 Estou estudando Deployment e TypeScript;<br><br>🎲 Meus hobbies são cozinhar, ler e jogar;<br><br>💼 Em busca de novas oportunidades profissionais;<br><br>💬  Sinta-se a vontade para entrar em contato;<br><br>📝 Meu e-mail é <b>isadorasaraiva95@gmail.com</b></p>
 
 <br clear="both">
 
-## 📞 Você pode me encontrar em:
+## 📞 Você pode me encontrar em
   <div align="left">
   <a href="https://www.linkedin.com/in/isadorasaraiva/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
