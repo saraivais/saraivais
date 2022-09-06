@@ -2,21 +2,19 @@
 
 ###
 
-<h2 align="left">💭 Sobre mim</h2>
+## 💭 Sobre mim
 
 ###
 
-<img align="right" height="350" src="https://i.pinimg.com/originals/d8/5d/f0/d85df08df1212c0f8b219e779c5ebc46.gif"  />
+<img align="right" height="300" src="https://user-images.githubusercontent.com/96205316/188677515-fbea5766-9946-4d4d-8ab4-c3e65c1cfcbc.gif"  />
 
 ###
 
-<p align="left">🌎 Sou de Salvador - Bahia, Brasil;<br><br>📖 Estudo na Trybe para me tornar Desenvolvedora de Software Full Stack;<br><br>📚 Estou sempre em busca de novos conhecimentos para melhorar como pessoa e profissional;<br><br>🌱 Estou estudando Deployment e TypeScript;<br><br>💼 Em busca de novas oportunidades profissionais;<br><br>🎲 Meus hobbies são ler, jogar e cozinhar;<br><br>💬  Sinta-se a vontade para entrar em contato.<br><br>📝 Meu e-mail é isadorasaraiva95@gmail.com</p>
-
-###
+<p align="left">🌎 Sou de Salvador - Bahia, Brasil;<br><br>📖 Estudo na Trybe para me tornar Desenvolvedora de Software Full Stack;<br><br>📚 Estou estudando Deployment e TypeScript;<br><br>🎲 Meus hobbies são cozinhar, ler e jogar;<br><br>💼 Em busca de novas oportunidades profissionais;<br><br>💬  Sinta-se a vontade para entrar em contato.<br><br>📝 Meu e-mail é <b>isadorasaraiva95@gmail.com</b></p>
 
 <br clear="both">
 
-<h2 align="left">📞 Você pode me encontrar em:<h2>
+## 📞 Você pode me encontrar em:
   <div align="left">
   <a href="https://www.linkedin.com/in/isadorasaraiva/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
@@ -28,10 +26,8 @@
     <img src="https://img.shields.io/badge/%20-PORTFOLIO-%239968D9?style=for-the-badge" alt="portfolio-logo"/>
   </a>
 </div>
-  
-  ###
 
-<h2 align="left">🔧 Linguagens e Ferramentas</h2>
+## 🔧 Linguagens e Ferramentas
 
 ###
 
