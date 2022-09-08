@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌎 Sou de Salvador - Bahia, Brasil;<br><br>📖 Estudo na Trybe para me tornar Desenvolvedora de Software Full Stack;<br><br>📚 Estou estudando Deployment e TypeScript;<br><br>🎲 Meus hobbies são cozinhar, ler e jogar;<br><br>💼 Em busca de novas oportunidades profissionais;<br><br>💬  Sinta-se a vontade para entrar em contato;<br><br>📝 Meu e-mail é <b>isadorasaraiva95@gmail.com</b></p>
+<p align="left">🌎 Sou de Salvador - Bahia, Brasil;<br><br>📖 Estudo na Trybe para me tornar Desenvolvedora de Software Full Stack;<br><br>📚 Estou estudando TypeScript e OOP;<br><br>🎲 Meus hobbies são cozinhar, ler e jogar;<br><br>💼 Em busca de novas oportunidades profissionais;<br><br>💬  Sinta-se a vontade para entrar em contato;<br><br>📝 Meu e-mail é <b>isadorasaraiva95@gmail.com</b></p>
 
 <br clear="both">
 
