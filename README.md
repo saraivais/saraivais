@@ -55,10 +55,12 @@
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="sequelize-logo"/>
 </div>
 
-#
+## 📈 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saraivais&show_icons=true&count_private=true&theme=github_dark)   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraivais&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=saraivais&show_icons=true&count_private=true&theme=github_dark"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraivais&layout=compact&theme=github_dark"/>
+</div>
 
 #
 
