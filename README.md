@@ -1,8 +1,8 @@
-<h1 align="center">Oi, eu sou Isadora 👋</h1>
+<h1 align="center">Hello, I'm Isadora 👋</h1>
 
 ###
 
-## 💭 Sobre mim
+## 💭 About me
 
 ###
 
@@ -10,11 +10,25 @@
 
 ###
 
-<p align="left">🌎 Sou de Salvador - Bahia, Brasil;<br><br>📖 Estudo na Trybe para me tornar Desenvolvedora de Software Full Stack;<br><br>📚 Estou estudando TypeScript e OOP;<br><br>🎲 Meus hobbies são cozinhar, ler e jogar;<br><br>💼 Em busca de novas oportunidades profissionais;<br><br>💬  Sinta-se a vontade para entrar em contato;<br><br>📝 Meu e-mail é <b>isadorasaraiva95@gmail.com</b></p>
+<p align="left">
+🌎 I'm from Salvador/Bahia - Brazil;
+<br><br>
+📖 Studying to become a Full Stack Software Developer at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>;
+<br><br>
+📚 Currently studying TypeScript and OOP;
+<br><br>
+🎲 My hobbies are: cooking, books and games;
+<br><br>
+💼 Open to new oportunities;
+<br><br>
+💬  Feel free to reach out;
+<br><br>
+📝 My email is <b>isadorasaraiva95@gmail.com</b>
+</p>
 
 <br clear="both">
 
-## 📞 Você pode me encontrar em
+## 📞 Contact me
   <div align="left">
   <a href="https://www.linkedin.com/in/isadorasaraiva/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
@@ -27,7 +41,7 @@
   </a>
 </div>
 
-## 🔧 Linguagens e Ferramentas
+## 🔧 Technologies and tools
 
 ###
 
