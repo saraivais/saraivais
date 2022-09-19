@@ -15,7 +15,7 @@
 <br><br>
 📖 Studying to become a Full Stack Software Developer at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>;
 <br><br>
-📚 Currently studying TypeScript and OOP;
+📚 Currently learning TypeScript and OOP;
 <br><br>
 🎲 My hobbies are: cooking, books and games;
 <br><br>
