@@ -58,8 +58,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=saraivais&show_icons=true&count_private=true&theme=github_dark"/>
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraivais&layout=compact&theme=github_dark"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=saraivais&show_icons=true&count_private=true&theme=github_dark"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraivais&layout=compact&theme=github_dark"/>
 </div>
 
 #
