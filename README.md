@@ -17,11 +17,13 @@
 <br><br>
 📚 Currently learning Object-Oriented Programming;
 <br><br>
-🎲 My hobbies are cooking, learning languages, reading and games;
+🎲 My hobbies are cooking, reading, learning languages and games;
 <br><br>
-💼 Open to new oportunities;
+✨ I'm studying Korean;
 <br><br>
-💬  Feel free to contact me, I'm happy to chat;
+💼 Open to new professional oportunities;
+<br><br>
+💬  Feel free to ask me anything;
 <br><br>
 📝 My email is <b>isadorasaraiva95@gmail.com</b>
 </p>
