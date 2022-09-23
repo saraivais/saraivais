@@ -17,9 +17,7 @@
 <br><br>
 📚 Currently learning Object-Oriented Programming
 <br><br>
-🎲 My hobbies are cooking, reading, learning languages and games
-<br><br>
-✨ I'm studying Korean
+✨ My hobbies are cooking, reading, learning languages and games
 <br><br>
 💼 Open to new professional oportunities
 <br><br>
