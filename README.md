@@ -11,19 +11,19 @@
 ###
 
 <p align="left">
-🌎 I'm from Salvador/Bahia - Brazil;
+🌎 I'm from Salvador/Bahia - Brazil
 <br><br>
-📖 Studying to become a Full Stack Software Developer at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>;
+📖 Studying to become a Full Stack Software Developer at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
 <br><br>
-📚 Currently learning Object-Oriented Programming;
+📚 Currently learning Object-Oriented Programming
 <br><br>
-🎲 My hobbies are cooking, reading, learning languages and games;
+🎲 My hobbies are cooking, reading, learning languages and games
 <br><br>
-✨ I'm studying Korean;
+✨ I'm studying Korean
 <br><br>
-💼 Open to new professional oportunities;
+💼 Open to new professional oportunities
 <br><br>
-💬  Feel free to ask me anything;
+💬  Feel free to ask me anything
 <br><br>
 📝 My email is <b>isadorasaraiva95@gmail.com</b>
 </p>
