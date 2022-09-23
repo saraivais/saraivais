@@ -15,13 +15,13 @@
 <br><br>
 📖 Studying to become a Full Stack Software Developer at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>;
 <br><br>
-📚 Currently learning TypeScript and OOP;
+📚 Currently learning Object-Oriented Programming;
 <br><br>
-🎲 My hobbies are: cooking, books and games;
+🎲 My hobbies are cooking, learning languages, reading and games;
 <br><br>
 💼 Open to new oportunities;
 <br><br>
-💬  Feel free to reach out;
+💬  Feel free to contact me, I'm happy to chat;
 <br><br>
 📝 My email is <b>isadorasaraiva95@gmail.com</b>
 </p>
@@ -67,6 +67,7 @@
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="mocha-logo"/>
   <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="chai-logo"/>
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="sequelize-logo"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript-logo"/>
 </div>
 
 ## 📈 GitHub Stats
