@@ -8,7 +8,7 @@
 
 * 💼 I'm a Full Stack Developer at <a href="https://www.motrix.global/" target="_blank">Motrix Techknowledge</a>;
 * 🌎 Native to Salvador/BA 🇧🇷
-* 📚 Currently studying **Java** to improve my object-oriented programming skills and **AWS** to learn more about cloud computing;
+* 📚 Studying **Java** to improve my object-oriented programming skills and **AWS** to learn more about cloud computing;
 * ✨ I have a passion for cooking, especially experimenting with new flavors and recipes;
 * 📖 I love immersing myself in a good book, and I'm always eager to learn a new language - currently, I'm focusing on improving my Korean skills;
 * 🎮 When I'm not coding, you can often find me playing games with friends, exploring different worlds and storylines;
