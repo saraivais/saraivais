@@ -2,29 +2,18 @@
 
 ###
 
-## 💭 About me
+<img align="right" height="320" src="https://user-images.githubusercontent.com/96205316/188677515-fbea5766-9946-4d4d-8ab4-c3e65c1cfcbc.gif"  />
 
 ###
 
-<img align="right" height="300" src="https://user-images.githubusercontent.com/96205316/188677515-fbea5766-9946-4d4d-8ab4-c3e65c1cfcbc.gif"  />
-
-###
-
-<p align="left">
-🌎 I'm from Salvador/Bahia - Brazil
-<br><br>
-📖 Studying to become a Full Stack Software Developer at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
-<br><br>
-📚 Currently learning Object-Oriented Programming
-<br><br>
-✨ My hobbies are cooking, reading, learning languages and games
-<br><br>
-💼 Open to new professional oportunities
-<br><br>
-💬  Feel free to ask me anything
-<br><br>
-📝 My email is <b>isadorasaraiva95@gmail.com</b>
-</p>
+* 💼 I'm a Full Stack Developer at <a href="https://www.motrix.global/" target="_blank">Motrix Techknowledge</a>;
+* 🌎 Native to Salvador/BA 🇧🇷
+* 📚 Currently studying **Java** to improve my object-oriented programming skills and **AWS** to learn more about cloud computing;
+* ✨ I have a passion for cooking, especially experimenting with new flavors and recipes;
+* 📖 I love immersing myself in a good book, and I'm always eager to learn a new language - currently, I'm focusing on improving my Korean skills;
+* 🎮 When I'm not coding, you can often find me playing games with friends, exploring different worlds and storylines;
+* 💬 I'm open to collaboration, networking, and mentorship opportunities, so feel free to reach out and connect!
+* 📝 My email is **isadorasaraiva95@gmail.com**
 
 <br clear="both">
 
@@ -35,9 +24,6 @@
   </a>
   <a href="https://www.hackerrank.com/isadorasaraiva95" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank-logo"  />
-  </a>
-  <a href="https://twitter.com/saraivais95" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter-logo"/>
   </a>
   <a href="https://saraivais.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/%20-PORTFOLIO-%239968D9?style=for-the-badge" alt="portfolio-logo"/>
@@ -57,6 +43,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest-logo"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router-logo"/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker-logo"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql-logo"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres-logo">
